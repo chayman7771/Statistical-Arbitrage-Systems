@@ -2,7 +2,7 @@
 
 **Author:** Cameron Hayman
 
-> **A robust, fully auditable cointegration-based pairs trading backtest framework. Includes multi-level (laddered) mean-reversion entries, trade-by-trade analytics, detailed logs, and high-quality plots—ready for research, portfolio review, or job interviews.**
+> **A robust, fully auditable cointegration-based pairs trading backtest framework. Includes multi-level (laddered) mean-reversion entries, trade-by-trade analytics, detailed logs, and high-quality plots—ready for research or portfolio review.**
 
 ---
 
@@ -28,4 +28,4 @@
 ```bash
 # Clone and run (Python 3.9+ recommended)
 pip install numpy pandas matplotlib yfinance statsmodels
-python robust_stat_arb.py
+python laddered_mean-reversion_strategy.py
