@@ -23,6 +23,12 @@
 
 ---
 
+## Sample Output
+
+![Pairing Output Graph LII-MSI](Pairing_Output_Graph_LII-MSI.PNG)
+
+---
+
 ## Quickstart
 
 ```bash
